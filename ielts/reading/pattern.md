@@ -1,0 +1,32 @@
+# Pattern
+
+- track => road
+- partnership => symbiotic relationship
+- opinion => perspective
+- fairness => justice and impartiality
+- limited appeal to => distraction
+- encircle => surround, ring
+- increase users' confidence => trustworthy
+- learn about oneself => self-discovery
+- make use of => apply
+- specialist => collaborator
+- impact => affect
+- causes (nc.) => why ... went
+- avoid => prevent
+- boring => tedious
+- relay => communicate across
+- alarming => not ignore
+- prestige => status
+- tendency => predisposition
+- the amount of => the more, the more
+- cannot => inability to
+- share => exchange
+- tree => forest back to parts of out bare and barren uplands
+- dramatic => vivid
+- agricultural vehicles => tractors, ploughs
+- undisputed answer => prove
+- support => back up
+- satisfy => reward
+- carefully => meticulously
+- assistant => apprentice
+- strain => a type of

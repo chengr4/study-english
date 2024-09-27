@@ -1,0 +1,251 @@
+# Vocabulary
+
+- afar: adv. 遠處
+- account: n. 敘述
+  - synonym: narrative, story, description
+  - The book gives a vivid account of the war.
+- amenity: nc. 便利設施
+  - synonym: facility
+  - The hotel has excellent amenities.
+- adequate: adj. 足夠的
+  - synonym: sufficient
+  - The food supplies in the country are perfectly adequate for the needs of the people.
+- aesthetic: adj. 美學的
+  - synonym: artistic
+  - The building has no aesthetic value.
+- attain: v. 達到
+  - synonym: achieve
+  - He has attained the highest grade in his class.
+- antique: nc. 古董
+  - synonym: relic
+  - The museum has a large collection of antiques.
+- authentic: adj. 
+  - synonym: genuine, real, true
+  - The document is authentic.
+- apprentice: nc. 學徒
+  - synonym: trainee
+  - He is an apprentice in a law firm.
+- archeological: adj. 考古學的
+  - synonym: archeology
+  - The archeological site is very important.
+- ascertain: v. 確定
+
+- board: nc. 董事會
+- back up: vt. 支持
+  - The evidence backs up the theory.
+
+- cure: nc. 治癒
+  - synonym: remedy
+  - There is no cure for the disease.
+- coral: nc. 珊瑚
+- coral: nc. 珊瑚
+- conspriacy: n. 陰謀
+  - synonym: plot
+  - The government has uncovered a conspiracy against the leader.
+- conviction: n. 定罪，信念
+- conviction: n. 定罪，信念
+  - synonym: sentence
+- conservation: n. 保護
+  - synonym: preservation
+  - The conservation of the environment is important.
+- complex: nc. 建築群
+- considerable: adj. 相當大的
+  - synonym: substantial
+  - The company has made considerable progress.
+- countship: nc. 求愛
+- colony: n. 群體
+- collective: adj. 集體的
+- catch: nc. (魚的)捕獲量
+- come across: 偶然遇見
+- course: nc. 過程
+- clay: nc. 黏土
+- cessation: nc. 停止
+
+- deceit: n. 欺騙
+  - synonym: deception
+- divergence: nc. 分歧
+- detached: adj. 超然的
+  - synonym: objective
+  - The judge was detached.
+- destruction: n. 破壞
+  - synonym: damage
+  - The earthquake caused widespread destruction.
+- daunting: adj. 令人畏懼的
+  - synonym: intimidating
+  - The task was daunting
+- disguise: nu. 偽裝
+  - synonym: camouflage
+  - The soldier was in disguise.
+- degradation: n. 惡化
+- deterioration: n. 惡化
+- detrimental: adj. 有害的
+- detrimental: adj. 有害的
+- deliberately: adv. 故意地
+- dull: adj. 無聊的
+- decipher: v. 解讀
+- derelict: adj. 荒廢的
+  - synonym: abandoned
+- disprove: vt. 證明...是虛假的
+
+- excavation; nc. 挖掘
+  - synonym: dig
+  - The excavation of the site will take several years.
+- expedition: nc. 遠征
+  - synonym: journey
+- elude: v. 逃避
+- engrossing: adj. 使人全神貫注的
+- entries of the time: 當時的記錄
+- exacerbate: v. 使惡化
+
+- film: n. 薄膜
+  - synonym: layer
+  - a film of water: 一層水
+- factual: adj. 事實的
+  - factual basis: 事實依據
+- fragile: adj. 脆弱的
+- fungi: nc. 真菌
+- folklore: nc. 民間傳說
+
+- harbor: n. 港口
+  - synonym: port, harbour
+  - The ship was in the harbor.
+- hand out: vt. 分發
+  - synonym: distribute
+  - The teacher handed out the test papers.
+
+- intact: adj. 完整無缺的
+  - synonym: undamaged
+- impose: v. 強加
+  - synonym: enforce
+  - The government has imposed a ban on smoking in public places.
+- inscription (not a book): n. 銘文
+- incorporate: v. 使...合併, 包含
+- incorporate: v. 使...合併, 包含
+  - synonym: combine, include
+  - The comp any was incorporated in 1980.
+- incentive: nc. 激勵
+- infant: nc. 嬰兒
+- inhabitant: nc. 居民
+- inferior: adj. 次等的
+- insulation: n. 絕緣
+- impartiality: nc. 公正
+- intricacy: nc. 複雜
+- intrinsic: adj. 本質的
+
+- lead: nc. 鉛
+
+- modesty: n. 謙虛
+- modesty: n. 謙虛
+  - synonym: humility
+  - He accepted the award with typical modesty.
+- medieval: adj. 中世紀的
+- mislead: v. 誤導；使產生錯誤印象
+  - synonym: deceive
+- meticulously: adv. 精心地
+- motif: nc. 圖案
+
+- nurture: nu. 養育 
+  - nature and nurture: 先天與後天, 遺傳與環境
+- notion: nc. 概念
+  - synonym: idea
+
+- ought to: 應該
+  - synonym: should
+  - You ought to be ashamed of yourself.
+- obesity: nc. 肥胖
+- obscure: vt. 使不顯著
+
+- projection: nc. 預測
+  - synonym: forecast
+- prevalent: adj. 普遍的
+- prevailing: adj. 盛行的
+- plight: n. 困境；苦境；窘境
+  - the plight of the rainforests: 雨林的困境
+- prestige: nc. 威望
+- perception: nc. 感知
+- perception: nc. 感知
+- pigment: nc. 色素
+- predisposition: nc. 傾向
+  - synonym: tendency
+- prone: adj. 易於
+  - synonym: likely
+  - The area is prone to earthquakes.
+- paradox: nc. 悖論
+- priest: nc. 祭司
+
+- rectify: v. 糾正
+  - synonym: correct, **redress**
+- regard: v. 考慮，看待
+  - synonym: consider
+  - it is better to regard scenarios with objectivity
+- resentful: adj. 憤恨的
+  - synonym: bitter
+- reluctant: adj. 不情願的
+- resilient: adj. 有彈性的
+  - synonym: flexible
+- retention: nu. 保留
+- reintroduce: v. 重新引入, 放生
+- reflection: 反思, 反射
+- relay: v. 傳達, 轉播, 接力, 中繼
+  - synonym: communicate across
+  - relay event: 接力賽
+- ruin: nc. 廢墟
+- rubber: n. 橡膠
+
+- synthetic: adj. 合成的
+- striking: adj. 引人注目的, 異乎尋常的
+- soar: v. 飛漲
+  - synonym: surge, 
+  - The price of oil has soared.
+- symbiotic relationship: 共生關係
+- spacious: adj. 寬敞的
+  - synonym: roomy
+  - The house has a spacious living room.
+- strain: nc. 品種
+- strained: adj. 緊張的
+  - synonym: tense
+  - The relationship between the two countries is strained.
+- soil: n. 土壤
+  - synonym: **earth**
+  - The soil is very fertile.
+- subdue: v. 征服
+- sulphur: nc. 硫磺
+- suffer from: 受到...的影響
+- scepticism: n. 懷疑論
+  - synonym: doubt
+  - There is growing scepticism about the truth of his statements.
+- spontaneous: adj. 自發的
+  - synonym: voluntary
+  - The audience broke into spontaneous applause.
+- settlement: nc. 定居點
+
+- tedious: adj. 冗長乏味的
+  - synonym: boring
+  - The journey was long and tedious.
+- tedious: adj. 冗長乏味的
+- thriving: adj. 興旺的
+  - synonym: prosperous
+  - The city is thriving.
+- term: n. 任期
+  - synonym: period
+  - in his first term: 在他的第一任期
+- turn down: 拒絕
+- tractor: nc. 拖拉機
+  - synonym: **tractor**
+  - The tractor is used to plow the field.
+
+- urge: nc. 衝動
+- unforgeable: adj. 不可偽造的
+- undermine: v. 削弱
+  - synonym: weaken
+  - The president has accused two cabinet members of trying to undermine him.
+- undeterred: adj. 不受阻的
+
+- vessel: nc. 船隻
+
+- work out: 理解
+- wool: nc. 羊毛
+
+
+- **being subjected** to close examination: **受到**密切審查的公司的影響
+- **being held** responsible for problems: **被認為**對問題負有責任
